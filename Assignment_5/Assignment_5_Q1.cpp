@@ -162,12 +162,3 @@ int main()
     return 0;
 }
 
-    // Person p1;
-    // p1.acceptRecord();
-    // p1.displayRecord();
-
-    // Student s1;
-    // s1.acceptRecord();
-    // s1.displayRecord();
-
-    // return 0;
